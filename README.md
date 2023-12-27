@@ -1,6 +1,6 @@
 ## Olá, seja bem vindo! 😄
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXZmbmw0bW9iYTlweXI4dHk5OGhuem8wdzhmbXhmZ2Z3OXdtZGtmbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rlWs8oynvJDaAcwVuL/source.gif" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWQ5a3h5bnZ1czdwNWV0M2tjZXRuOTlkcnBwYnpwaXc0ODFnYWZ0ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/cSrDh6qrZ5ehMYY8dZ/giphy.gif" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 
 
